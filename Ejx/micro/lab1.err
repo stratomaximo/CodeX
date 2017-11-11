@@ -1,0 +1,2 @@
+Warning[207] C:\USERS\CLASES\DESKTOP\MICRO\LAB1.ASM 13 : Found label after column 1. (MAIN)
+Message[302] C:\USERS\CLASES\DESKTOP\MICRO\LAB1.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
